@@ -1,0 +1,8 @@
+.externalNativeBuild
+build
+*.iml
+.idea
+*.so
+.gradle
+*.mp3
+*.m4a
